@@ -1,0 +1,135 @@
+*{
+    font-family: Arial,Helvetica, sans-serif;
+   }
+   
+   body
+   {
+       text-align: center;
+       background-color: rgb(29, 1, 24);
+       
+
+   }
+   
+   #navbar{
+       background-color: rgba(216, 232, 194, 0);
+       height: 150px;
+       display: flex;
+       justify-content: flex-end;
+       justify-content: flex-start;
+       justify-content: center;
+       justify-content: space-between;
+       justify-content: space-evenly;
+       justify-content: space-around;
+       align-items: flex-end;
+       align-items: flex-start;
+       align-items: center;
+       }
+
+       #navbar a {
+color: rgb(221, 207, 189);
+       }
+   
+   h1 {
+       color:rgb(163, 213, 228) ;
+       font-size: 80px;
+       background-color: cadetblue;   
+   }
+   
+   p{
+    color: antiquewhite;
+   }
+
+   #imagecontainer {
+/* border: blue 2px solid; */
+display:flex ;
+justify-content: space-around;
+   }
+
+  
+.Pastries_image {
+    /* border: red 2px solid; */
+    width: 30%;
+}
+
+.pastrieimg{
+    width: 100%;
+}
+
+#imagecontainer {
+    /* border: red 2px solid; */
+    display:flex ;
+    justify-content: space-around;
+}
+
+.drink_image {
+    /* border: blue 2px solid; */
+    width: 50%;
+}
+
+#footer{
+    color: rgb(117, 213, 213);
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#footer{
+    background-color: rgb(140, 204, 204);
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#footer a{
+    color:rgb(17, 1, 17);
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* .drink_image {
+    width: 100%;
+} */
+
+/* .flexbox-item {
+    width: 200px;
+    margin: 10px;
+    border: 3px; solid
+}
+
+.flexbox-item-1 {
+    min-height: 100px;
+}
+.flexbox-item-2 {
+    min-height: 100px;
+}
+
+.flexbox-item-3 {
+    min-height: 100px;
+}
+
+.flexbox-item-4 {
+    min-height: 100px;
+} */
+
+
+   /*...this change the color and fontsize of the paragraph.......*/
+   /* p {
+   color:rgb(237, 235, 242); 
+   font-size: 20px;
+   }
+   .croissant.jpeg{
+    width: 10px;
+    height: 10px;
+}
+#img1{
+    padding: 100px ; 
+    border: 5px rgb(175, 86, 86) solid;
+    margin: 50px;
+}
+
